@@ -1,0 +1,50 @@
+{
+  "cities": {
+    "Metro Manila": [
+      { "candidate": "BONGBONG MARCOS", "votes": 18975119 },
+      { "candidate": "LENI ROBREDO", "votes": 8979607 }
+    ],
+    "Cebu City": [
+      { "candidate": "BONGBONG MARCOS", "votes": 12547500 },
+      { "candidate": "LENI ROBREDO", "votes": 7419200 }
+    ]
+  },
+  "provinces": {
+    "Metro Manila": [
+      { "candidate": "BONGBONG MARCOS", "votes": 85000000 },
+      { "candidate": "LENI ROBREDO", "votes": 30000000 }
+    ],
+    "Cebu": [
+      { "candidate": "BONGBONG MARCOS", "votes": 5600000 },
+      { "candidate": "LENI ROBREDO", "votes": 3700000 }
+    ]
+  },
+  "regions": {
+    "National Capital Region": [
+      { "candidate": "BONGBONG MARCOS", "votes": 85000000 },
+      { "candidate": "LENI ROBREDO", "votes": 30000000 }
+    ],
+    "Central Visayas": [
+      { "candidate": "BONGBONG MARCOS", "votes": 5600000 },
+      { "candidate": "LENI ROBREDO", "votes": 3700000 }
+    ]
+  },
+  "groupIsland": {
+    "Luzon": [
+      { "candidate": "BONGBONG MARCOS", "votes": 60000000 },
+      { "candidate": "LENI ROBREDO", "votes": 25000000 }
+    ],
+    "Visayas": [
+      { "candidate": "BONGBONG MARCOS", "votes": 22000000 },
+      { "candidate": "LENI ROBREDO", "votes": 15000000 }
+    ],
+    "Mindanao": [
+      { "candidate": "BONGBONG MARCOS", "votes": 20000000 },
+      { "candidate": "LENI ROBREDO", "votes": 12000000 }
+    ]
+  },
+  "country": [
+    { "candidate": "BONGBONG MARCOS", "votes": 89000000 },
+    { "candidate": "LENI ROBREDO", "votes": 47000000 }
+  ]
+}
